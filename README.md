@@ -1,3 +1,3 @@
 # SiteWithLogin
-SiteWithLogin 
-Um Site minimalista com detalhes em css e efeitos em javascript, onde se pode abrir uma aba de login e registrar.
+
+A minimalist website with CSS details and JavaScript effects, where you can open a login tab and register.
